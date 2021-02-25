@@ -1,0 +1,743 @@
+<?xml version="1.0"?>
+<data>
+  <row>
+    <OrganizationID>2392</OrganizationID>
+    <type>Hospital</type>
+    <Name>null</Name>
+    <Email>cxi9531@rit.edu</Email>
+    <city>null</city>
+    <zip>null</zip>
+    <CountyName>null</CountyName>
+    <State>null</State>
+  </row>
+  <row>
+    <OrganizationID>2335</OrganizationID>
+    <type>Hospital</type>
+    <Name>null</Name>
+    <Email>null</Email>
+    <city>null</city>
+    <zip>null</zip>
+    <CountyName>null</CountyName>
+    <State>null</State>
+  </row>
+  <row>
+    <OrganizationID>2363</OrganizationID>
+    <type>Hospital</type>
+    <Name>1 wizard</Name>
+    <Email>fred@rit.edu</Email>
+    <city>pittsford</city>
+    <zip>14534</zip>
+    <CountyName>Monroe</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>2364</OrganizationID>
+    <type>Hospital</type>
+    <Name>2 wizard</Name>
+    <Email>fred@rit.edu</Email>
+    <city>pittsford</city>
+    <zip>14534</zip>
+    <CountyName>Monroe</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>2367</OrganizationID>
+    <type>Hospital</type>
+    <Name>5 wizard</Name>
+    <Email>fred@rit.edu</Email>
+    <city>Pittsford</city>
+    <zip>14534</zip>
+    <CountyName>Monroe</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>2367</OrganizationID>
+    <type>Hospital</type>
+    <Name>5 wizard</Name>
+    <Email>fred@rit.edu</Email>
+    <city>West Lafayette</city>
+    <zip>47906</zip>
+    <CountyName>Tippecanoe</CountyName>
+    <State>IN</State>
+  </row>
+  <row>
+    <OrganizationID>1620</OrganizationID>
+    <type>Hospital</type>
+    <Name>Amsterdam Memorial Hospital</Name>
+    <Email>lekelly@nlg.org</Email>
+    <city>Amsterdam</city>
+    <zip>12010</zip>
+    <CountyName>Fulton</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1796</OrganizationID>
+    <type>Hospital</type>
+    <Name>Arnot Ogden Medical Center</Name>
+    <Email>dnkluge@aol.com</Email>
+    <city>Elmira</city>
+    <zip>14905</zip>
+    <CountyName>Chemung</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>2156</OrganizationID>
+    <type>Hospital</type>
+    <Name>Auburn Memorial Hospital</Name>
+    <Email>amandajean57@yahoo.com</Email>
+    <city>Auburn</city>
+    <zip>13021</zip>
+    <CountyName>Cayuga</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>2038</OrganizationID>
+    <type>Hospital</type>
+    <Name>Binghamton General Hospital</Name>
+    <Email>amandajean57@yahoo.com</Email>
+    <city>Binghamton</city>
+    <zip>13903</zip>
+    <CountyName>Broome</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>2384</OrganizationID>
+    <type>Hospital</type>
+    <Name>carrie</Name>
+    <Email>cirvine63@aol.com</Email>
+    <city>null</city>
+    <zip>null</zip>
+    <CountyName>null</CountyName>
+    <State>null</State>
+  </row>
+  <row>
+    <OrganizationID>2096</OrganizationID>
+    <type>Hospital</type>
+    <Name>Chenango Memorial Hospital</Name>
+    <Email>amandajean57@yahoo.com</Email>
+    <city>Binghamton</city>
+    <zip>13903</zip>
+    <CountyName>Chenango</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1482</OrganizationID>
+    <type>Hospital</type>
+    <Name>Claxton-Hepburn Medical Center</Name>
+    <Email>lshea@chmed.org</Email>
+    <city>Ogdensburg</city>
+    <zip>13669</zip>
+    <CountyName>St. Lawrence</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>558</OrganizationID>
+    <type>Hospital</type>
+    <Name>Clifton Springs Hospital and Clinic</Name>
+    <Email>jack.davidoff@cshosp.com</Email>
+    <city>Clifton Springs</city>
+    <zip>14432</zip>
+    <CountyName>Ontario</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>2285</OrganizationID>
+    <type>Hospital</type>
+    <Name>Community General Hospital</Name>
+    <Email>recruiter@cgh.org</Email>
+    <city>Syracuse</city>
+    <zip>13215</zip>
+    <CountyName>Onondaga</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1755</OrganizationID>
+    <type>Hospital</type>
+    <Name>Community Memorial Hospital, Inc</Name>
+    <Email>dthomas16@twcny.rr.com</Email>
+    <city>Hamilton</city>
+    <zip>13346</zip>
+    <CountyName>Madison</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>794</OrganizationID>
+    <type>Hospital</type>
+    <Name>Corning Hospital</Name>
+    <Email>shaw_pauline@guthrie.org</Email>
+    <city>Corning</city>
+    <zip>14830</zip>
+    <CountyName>Steuben</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>2187</OrganizationID>
+    <type>Hospital</type>
+    <Name>Cortland Regional Medical Center</Name>
+    <Email>tquinn@cortlandregional.org</Email>
+    <city>Cortland</city>
+    <zip>13045</zip>
+    <CountyName>Cortland</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1774</OrganizationID>
+    <type>Hospital</type>
+    <Name>Crouse Hospital</Name>
+    <Email>elbaumer@frontiernet.net</Email>
+    <city>Syracuse</city>
+    <zip>13210</zip>
+    <CountyName>Onondaga</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>2286</OrganizationID>
+    <type>Hospital</type>
+    <Name>Crouse Hospital (Syracuse, Onondaga County)</Name>
+    <Email>phyllisdevlin@crouse.org</Email>
+    <city>Syracuse</city>
+    <zip>13210</zip>
+    <CountyName>Onondaga</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1335</OrganizationID>
+    <type>Hospital</type>
+    <Name>DeGraff Memorial Hospital</Name>
+    <Email>ccarlson-heitman@kaleidahealth.org</Email>
+    <city>Tonawanda</city>
+    <zip>14120</zip>
+    <CountyName>Niagara</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1617</OrganizationID>
+    <type>Hospital</type>
+    <Name>Delaware Valley Hospital (Walton, Delaware County)</Name>
+    <Email>mary_doig@uhs.org</Email>
+    <city>Walton</city>
+    <zip>13856</zip>
+    <CountyName>Delaware</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>719</OrganizationID>
+    <type>Hospital</type>
+    <Name>F. F. Thompson Hospital</Name>
+    <Email>dianne.moroz@thompsonhealth.com</Email>
+    <city>Canandaigua</city>
+    <zip>14424</zip>
+    <CountyName>Ontario</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1019</OrganizationID>
+    <type>Hospital</type>
+    <Name>Geneva General Hospital</Name>
+    <Email>barryturek779@msn.com</Email>
+    <city>Geneva</city>
+    <zip>14456</zip>
+    <CountyName>Ontario</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>481</OrganizationID>
+    <type>Hospital</type>
+    <Name>Highland Hospital</Name>
+    <Email>karen_crotinger@urmc.rochester.edu</Email>
+    <city>Rochester</city>
+    <zip>14620</zip>
+    <CountyName>Monroe</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>2095</OrganizationID>
+    <type>Hospital</type>
+    <Name>Hospice of Chenango County (Norwich, Chenango County)</Name>
+    <Email>amandajean57@yahoo.com</Email>
+    <city>Norwich</city>
+    <zip>13815</zip>
+    <CountyName>Chenango</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>2390</OrganizationID>
+    <type>Hospital</type>
+    <Name>hosptestRVR</Name>
+    <Email>vinod@makemetheking.com</Email>
+    <city>Rochester</city>
+    <zip>14623</zip>
+    <CountyName>Monroe</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1376</OrganizationID>
+    <type>Hospital</type>
+    <Name>Inter-Community Memorial Hospital at Newfane</Name>
+    <Email>swendler@lockport-memorial.org</Email>
+    <city>Newfane</city>
+    <zip>14108</zip>
+    <CountyName>Niagara</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>777</OrganizationID>
+    <type>Hospital</type>
+    <Name>Ira Davenport Memorial Hospital</Name>
+    <Email>gab41752@aol.com</Email>
+    <city>Bath</city>
+    <zip>14810</zip>
+    <CountyName>Steuben</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1831</OrganizationID>
+    <type>Hospital</type>
+    <Name>Jefferson County Hospital</Name>
+    <Email>amandajean57@yahoo.com</Email>
+    <city>Carthage</city>
+    <zip>13619</zip>
+    <CountyName>Jefferson</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>857</OrganizationID>
+    <type>Hospital</type>
+    <Name>Jones Memorial Hospital</Name>
+    <Email>edwardsf@jmhny.org</Email>
+    <city>Wellsville</city>
+    <zip>14895</zip>
+    <CountyName>Allegany</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1732</OrganizationID>
+    <type>Hospital</type>
+    <Name>Lakeside Health System</Name>
+    <Email>stepems</Email>
+    <city>Brockport</city>
+    <zip>14420</zip>
+    <CountyName>Monroe</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>459</OrganizationID>
+    <type>Hospital</type>
+    <Name>Lakeside Memorial Hospital</Name>
+    <Email>angela.jones@lakesidehealth.org</Email>
+    <city>Brockport</city>
+    <zip>14420</zip>
+    <CountyName>Monroe</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>2380</OrganizationID>
+    <type>Hospital</type>
+    <Name>Leah</Name>
+    <Email>fred@rit.edu</Email>
+    <city>null</city>
+    <zip>null</zip>
+    <CountyName>null</CountyName>
+    <State>null</State>
+  </row>
+  <row>
+    <OrganizationID>1865</OrganizationID>
+    <type>Hospital</type>
+    <Name>Lewis County General Hospital</Name>
+    <Email>amandajean57@yahoo.com</Email>
+    <city>Lowville</city>
+    <zip>13367</zip>
+    <CountyName>Lewis</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1559</OrganizationID>
+    <type>Hospital</type>
+    <Name>Little Falls Hospital</Name>
+    <Email>r.simons@lhfny.org</Email>
+    <city>Little Falls</city>
+    <zip>13365</zip>
+    <CountyName>Herkimer</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1375</OrganizationID>
+    <type>Hospital</type>
+    <Name>Lockport Memorial Hospital</Name>
+    <Email>swendler@lockport-memorial.org</Email>
+    <city>Lockport</city>
+    <zip>14094</zip>
+    <CountyName>Niagara</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1784</OrganizationID>
+    <type>Hospital</type>
+    <Name>Medina Memorial Hospital</Name>
+    <Email>dnkluge@aol.com</Email>
+    <city>Medina</city>
+    <zip>14103</zip>
+    <CountyName>Orleans</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1364</OrganizationID>
+    <type>Hospital</type>
+    <Name>Mt. St. Mary's Hospital</Name>
+    <Email>rodger.ransom@msmh.org</Email>
+    <city>Lewiston</city>
+    <zip>14092</zip>
+    <CountyName>Niagara</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1618</OrganizationID>
+    <type>Hospital</type>
+    <Name>Nathan Littauer Hospital (Gloversville, Fulton County)</Name>
+    <Email>lekelly@nlg.org</Email>
+    <city>Gloversville</city>
+    <zip>12078</zip>
+    <CountyName>Fulton</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>2353</OrganizationID>
+    <type>Hospital</type>
+    <Name>new hospital for uuu</Name>
+    <Email>uuu@rit.edu</Email>
+    <city>pittsford</city>
+    <zip>14534</zip>
+    <CountyName>Monroe</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>785</OrganizationID>
+    <type>Hospital</type>
+    <Name>Newark Wayne Community Hospital</Name>
+    <Email>lisa.comella@viahealth.org</Email>
+    <city>Newark</city>
+    <zip>14513</zip>
+    <CountyName>Wayne</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1326</OrganizationID>
+    <type>Hospital</type>
+    <Name>Niagara Falls Memorial Medical Center</Name>
+    <Email>laura.hickey@nfmmc.org</Email>
+    <city>Niagara Falls</city>
+    <zip>14302</zip>
+    <CountyName>Niagara</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>130</OrganizationID>
+    <type>Hospital</type>
+    <Name>Nicholas H. Noyes Hospital</Name>
+    <Email>ksylvester@noyes-hospital.org</Email>
+    <city>Dansville</city>
+    <zip>14437</zip>
+    <CountyName>Livingston</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>959</OrganizationID>
+    <type>Hospital</type>
+    <Name>Olean General Hospital</Name>
+    <Email>phlmd@aol.com</Email>
+    <city>Olean</city>
+    <zip>14760</zip>
+    <CountyName>Cattaraugus</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1753</OrganizationID>
+    <type>Hospital</type>
+    <Name>Oneida Healthcare Center</Name>
+    <Email>dthomas16@twcny.rr.com</Email>
+    <city>Oneida</city>
+    <zip>13421</zip>
+    <CountyName>Madison</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>2039</OrganizationID>
+    <type>Hospital</type>
+    <Name>Our Lady Of Lourdes Memorial Hospital (Binghamton, Broome County)</Name>
+    <Email>amandajean57@yahoo.com</Email>
+    <city>Binghamton</city>
+    <zip>13905</zip>
+    <CountyName>Broome</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>126</OrganizationID>
+    <type>Hospital</type>
+    <Name>Rochester General Hospital</Name>
+    <Email>george.glessner2@viahealth.org</Email>
+    <city>Rochester</city>
+    <zip>14621</zip>
+    <CountyName>Monroe</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1751</OrganizationID>
+    <type>Hospital</type>
+    <Name>Samaritan Medical Center</Name>
+    <Email>drcgamd@aol.com</Email>
+    <city>Watertown</city>
+    <zip>13601</zip>
+    <CountyName>Jefferson</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1271</OrganizationID>
+    <type>Hospital</type>
+    <Name>Schuyler Hospital</Name>
+    <Email>jaynep@schuylerhospital.org</Email>
+    <city>Montour Falls</city>
+    <zip>14865</zip>
+    <CountyName>Schuyler</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>911</OrganizationID>
+    <type>Hospital</type>
+    <Name>Soldiers &amp; Sailors Memorial Hospital</Name>
+    <Email>pam.osgood@flhealth.org</Email>
+    <city>Penn Yan</city>
+    <zip>14527</zip>
+    <CountyName>Yates</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1</OrganizationID>
+    <type>Hospital</type>
+    <Name>Some Hospital</Name>
+    <Email>fred@rit.edu</Email>
+    <city>Pittsford</city>
+    <zip>14534</zip>
+    <CountyName>Monroe</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1</OrganizationID>
+    <type>Hospital</type>
+    <Name>Some Hospital</Name>
+    <Email>fred@rit.edu</Email>
+    <city>West Lafayette</city>
+    <zip>47906</zip>
+    <CountyName>Tippecanoe</CountyName>
+    <State>IN</State>
+  </row>
+  <row>
+    <OrganizationID>955</OrganizationID>
+    <type>Hospital</type>
+    <Name>St. James Mercy Hospital</Name>
+    <Email>rwhitney@sjmh.org</Email>
+    <city>Hornell</city>
+    <zip>14843</zip>
+    <CountyName>Steuben</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>795</OrganizationID>
+    <type>Hospital</type>
+    <Name>St. Joseph's Hospital</Name>
+    <Email>dsweeney@stjosephs.org</Email>
+    <city>Elmira</city>
+    <zip>14901</zip>
+    <CountyName>Chemung</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>2288</OrganizationID>
+    <type>Hospital</type>
+    <Name>St. Joseph's Hospital and Health Ctr.</Name>
+    <Email>community.relations@sjhsyr.org</Email>
+    <city>Syracuse</city>
+    <zip>13203</zip>
+    <CountyName>Onondaga</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1619</OrganizationID>
+    <type>Hospital</type>
+    <Name>St. Mary's Hospital (Amsterdam, Montgomery County)</Name>
+    <Email>lekelly@nlg.org</Email>
+    <city>Amsterdam</city>
+    <zip>12010</zip>
+    <CountyName>Montgomery</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>2362</OrganizationID>
+    <type>Hospital</type>
+    <Name>still testing wizard</Name>
+    <Email>fred@rit.edu</Email>
+    <city>null</city>
+    <zip>null</zip>
+    <CountyName>null</CountyName>
+    <State>null</State>
+  </row>
+  <row>
+    <OrganizationID>479</OrganizationID>
+    <type>Hospital</type>
+    <Name>Strong Memorial Hospital/Golisano Children's Hospital</Name>
+    <Email>karen_crotinger@urmc.rochester.edu</Email>
+    <city>Rochester</city>
+    <zip>14642</zip>
+    <CountyName>Monroe</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1341</OrganizationID>
+    <type>Hospital</type>
+    <Name>SUNY Upstate Medical University @ Syracuse</Name>
+    <Email>fieldsm@upstate.edu</Email>
+    <city>Syracuse</city>
+    <zip>13039</zip>
+    <CountyName>Onondaga</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>2395</OrganizationID>
+    <type>Hospital</type>
+    <Name>test hospital</Name>
+    <Email>fff@rit.edu</Email>
+    <city>West Lafayette</city>
+    <zip>47906</zip>
+    <CountyName>Tippecanoe</CountyName>
+    <State>IN</State>
+  </row>
+  <row>
+    <OrganizationID>2395</OrganizationID>
+    <type>Hospital</type>
+    <Name>test hospital</Name>
+    <Email>fff@rit.edu</Email>
+    <city>Rochester</city>
+    <zip>14620</zip>
+    <CountyName>Monroe</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>2405</OrganizationID>
+    <type>Hospital</type>
+    <Name>test xy</Name>
+    <Email>mmm@rit.edu</Email>
+    <city>Pittsford</city>
+    <zip>14534</zip>
+    <CountyName>Monroe</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1798</OrganizationID>
+    <type>Hospital</type>
+    <Name>United Memorial Medical Center</Name>
+    <Email>dnkluge@aol.com</Email>
+    <city>Batavia</city>
+    <zip>14020</zip>
+    <CountyName>Genesee</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1043</OrganizationID>
+    <type>Hospital</type>
+    <Name>Unity Hospital</Name>
+    <Email>makeller@unityhealth.org</Email>
+    <city>Rochester</city>
+    <zip>14626</zip>
+    <CountyName>Monroe</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>2287</OrganizationID>
+    <type>Hospital</type>
+    <Name>Upstate University Hospital (Syracuse, Onondaga County)</Name>
+    <Email>emailhr@upstate.edu</Email>
+    <city>Syracuse</city>
+    <zip>13210</zip>
+    <CountyName>Onondaga</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1782</OrganizationID>
+    <type>Hospital</type>
+    <Name>VA Medical Center at Albany</Name>
+    <Email>dnkluge@aol.com</Email>
+    <city>Albany</city>
+    <zip>12208</zip>
+    <CountyName>Albany</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1161</OrganizationID>
+    <type>Hospital</type>
+    <Name>VA Medical Center at Bath</Name>
+    <Email>james.orme@va.gov.</Email>
+    <city>Bath</city>
+    <zip>14810</zip>
+    <CountyName>Steuben</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1781</OrganizationID>
+    <type>Hospital</type>
+    <Name>VA Medical Center at Buffalo</Name>
+    <Email>dnkluge@aol.com</Email>
+    <city>Buffalo</city>
+    <zip>14215</zip>
+    <CountyName>Erie</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>954</OrganizationID>
+    <type>Hospital</type>
+    <Name>VA Medical Center at Canandaigua</Name>
+    <Email>daniel.ryan@va.gov</Email>
+    <city>Canandaigua</city>
+    <zip>14424</zip>
+    <CountyName>Ontario</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>1775</OrganizationID>
+    <type>Hospital</type>
+    <Name>VA Medical Center at Syracuse</Name>
+    <Email>dnkluge@aol.com</Email>
+    <city>Syracuse</city>
+    <zip>13210</zip>
+    <CountyName>Onondaga</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>984</OrganizationID>
+    <type>Hospital</type>
+    <Name>VA Western NY Healthcare System - Batavia Site</Name>
+    <Email>evangeline.conley@va.gov</Email>
+    <city>Batavia</city>
+    <zip>14020</zip>
+    <CountyName>Genesee</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>2040</OrganizationID>
+    <type>Hospital</type>
+    <Name>Wilson Medical Center (Johnson City, Broome County)</Name>
+    <Email>amandajean57@yahoo.com</Email>
+    <city>Johnson City</city>
+    <zip>13790</zip>
+    <CountyName>Broome</CountyName>
+    <State>NY</State>
+  </row>
+  <row>
+    <OrganizationID>701</OrganizationID>
+    <type>Hospital</type>
+    <Name>Wyoming County Community Hospital</Name>
+    <Email>gcollins@wcchs.net</Email>
+    <city>Warsaw</city>
+    <zip>14569</zip>
+    <CountyName>Wyoming</CountyName>
+    <State>NY</State>
+  </row>
+</data>
